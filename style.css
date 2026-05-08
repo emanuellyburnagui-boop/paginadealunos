@@ -26,10 +26,10 @@ justify-content: flex-start;
 align-items: center;
 }
 .titulo_site{
-padding: 70px;
+padding: 50px;
 text-align: center;
 width: 50%;
-font: 70px;
+font: 150px;
 }
 .sociais{
 display: flex;
